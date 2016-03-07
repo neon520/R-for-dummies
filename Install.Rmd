@@ -1,4 +1,9 @@
-#Rmarkdown install
+---
+title: "install Markdown"
+output: pdf_document
+---
+
+#Install Rmarkdown
 
 Installing the package:
 
