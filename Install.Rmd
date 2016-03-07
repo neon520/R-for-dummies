@@ -5,7 +5,7 @@ output: pdf_document
 
 #Install Rmarkdown
 
-Installing the package:
+This tutorial has been made with Rmarkdown. We only have to write the text below to install the package:
 
 ```{r}
 install.packages("rmarkdown")
