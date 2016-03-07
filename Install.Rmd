@@ -1,0 +1,7 @@
+Rmarkdown install
+
+=================================================
+Installing the package:
+``
+> install.packages("rmarkdown")
+``
