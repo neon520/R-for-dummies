@@ -1,7 +1,5 @@
 #Rmarkdown install
 
-=================================================
-
 Installing the package:
 
 ```{r}
