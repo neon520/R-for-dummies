@@ -1,7 +1,10 @@
 Rmarkdown install
 
 =================================================
+
 Installing the package:
-``
-> install.packages("rmarkdown")
-``
+
+```{r}
+install.packages("rmarkdown")
+
+```
