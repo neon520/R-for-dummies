@@ -11,3 +11,16 @@ This tutorial has been made with Rmarkdown. We only have to write the text below
 install.packages("rmarkdown")
 
 ```
+
+To render file, we´ll use:
+
+```{r}
+rmarkdown::render("file_to_render.Rmd")
+
+```
+
+If you are using rmarkdown::render then you can pass a format name to render to select from the available formats. For example:
+
+```{r}
+render("file_to_render.Rmd", "pdf_document")
+```
